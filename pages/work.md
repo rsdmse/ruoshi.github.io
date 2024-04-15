@@ -4,7 +4,9 @@ title: Computational Scientist
 permalink: /work
 ---
 
-**Senior Computational Scientist**, July 2022 - present
+**Lead Scientist of Scientific Computing**, Aug 2023 - present
+
+**Senior Computational Scientist**, July 2022 - July 2023
 
 **Computational Scientist**, Oct 2019 - June 2022
 
@@ -15,6 +17,7 @@ permalink: /work
 [Rivanna-Docker repo](https://github.com/uvarc/rivanna-docker/)
 - I write Slack robot plugins and Bash/Python scripts. For example: EasyBuild module installation/uninstallation automation, user information query (LDAP and internal database), custom Jupyter kernel installation for users.
 
-[UVA Research Computing](https://www.rc.virginia.edu)  
-560 Ray C. Hunt Drive  
+[UVA Research Computing](https://rc.virginia.edu)  
+Michie Building North 3rd Floor
+918 Emmet St N
 Charlottesville, VA 22903  

@@ -10,7 +10,7 @@ I am a mid-dan amateur player and participate in local tournaments.
 
 ### Self-Published Books
 
-Please visit [my Amazon page](https://www.amazon.com/Ruoshi-Sun/e/B01DQ6NH72).
+Please visit [my Amazon page](https://www.amazon.com/author/ruoshi) for paperback and [my Patreon page](https://www.patreon.com/RuoshiSun) for PDF.
 
 | Title |Year of Publication | Original Title | Author |Year of Publication|
 |---|---|---|---|---|
